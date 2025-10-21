@@ -1,8 +1,7 @@
 # unalias
 
 > Ukloni pseudonime.
-> Pogledajte isto: `alias`.
-> Više informacija: <https://www.gnu.org/software/bash/manual/bash.html#index-unalias>.
+> Više informacija: <https://manned.org/unalias>.
 
 - Ukloni pseudonim:
 
